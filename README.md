@@ -1,0 +1,1 @@
+This project aims to perform customer segmentation for a retail store using the K-means clustering algorithm. By analyzing the purchase history of customers, we aim to group them into distinct clusters based on their buying behavior. This segmentation can help the retail store in targeted marketing, personalized recommendations, and overall customer satisfaction.
